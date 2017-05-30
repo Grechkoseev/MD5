@@ -1,10 +1,11 @@
-﻿using System;
+﻿using hash;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MD5
+namespace hash
 {
     static class Program
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MD5.Properties
+namespace hash.Properties
 {
 
 

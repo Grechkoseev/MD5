@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5", "MD5\MD5.csproj", "{625DDE4B-8716-4393-8EE6-B4FD7A7E7380}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hash", "MD5\hash.csproj", "{625DDE4B-8716-4393-8EE6-B4FD7A7E7380}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
